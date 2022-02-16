@@ -1,42 +1,10 @@
-<CATALOG>
-  <CD>
-    <TITLE>Empire Burlesque</TITLE>
-    <ARTIST>Bob Dylan</ARTIST>
-    <COUNTRY>USA</COUNTRY>
-    <COMPANY>Columbia</COMPANY>
-    <PRICE>10.90</PRICE>
-    <YEAR>1985</YEAR>
-  </CD>
-  <CD>
-    <TITLE>Hide your heart</TITLE>
-    <ARTIST>Bonnie Tyler</ARTIST>
-    <COUNTRY>UK</COUNTRY>
-    <COMPANY>CBS Records</COMPANY>
-    <PRICE>9.90</PRICE>
-    <YEAR>1988</YEAR>
-  </CD>
-  <CD>
-    <TITLE>Greatest Hits</TITLE>
-    <ARTIST>Dolly Parton</ARTIST>
-    <COUNTRY>USA</COUNTRY>
-    <COMPANY>RCA</COMPANY>
-    <PRICE>9.90</PRICE>
-    <YEAR>1982</YEAR>
-  </CD>
-  <CD>
-    <TITLE>Still got the blues</TITLE>
-    <ARTIST>Gary Moore</ARTIST>
-    <COUNTRY>UK</COUNTRY>
-    <COMPANY>Virgin records</COMPANY>
-    <PRICE>10.20</PRICE>
-    <YEAR>1990</YEAR>
-  </CD>
-  <CD>
-    <TITLE>Eros</TITLE>
-    <ARTIST>Eros Ramazzotti</ARTIST>
-    <COUNTRY>EU</COUNTRY>
-    <COMPANY>BMG</COMPANY>
-    <PRICE>9.90</PRICE>
-    <YEAR>1997</YEAR>
-  </CD>
-</CATALOG>
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <VERSION>1.0.0</VERSION>
+  <TPMS_ID>80:ea:ca:11:54:c1</TPMS_ID>
+  <TPMS_ID>81:ea:ca:21:56:de</TPMS_ID>
+  <TPMS_ID>82:ea:ca:31:53:ea</TPMS_ID>
+  <TPMS_ID>83:ea:ca:41:55:7d</TPMS_ID>
+  <TPMS>1</TPMS>
+  <GYRO>0</GYRO>
+</root>

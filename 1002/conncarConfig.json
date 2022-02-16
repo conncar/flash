@@ -1,0 +1,20 @@
+{
+  "CATALOG": {
+    "VERSION": {
+      "VERSION_ID": "1.0.0"
+    },
+    "TPMS": {
+      "FRONT_LEFT": "80:ea:ca:11:54:c1",
+      "FRONT_RIGHT": "81:ea:ca:21:56:de",
+      "BACK_LEFT": "82:ea:ca:31:53:ea",
+      "BACK_RIGHT": "83:ea:ca:41:55:7d"
+    },
+    "FEATURE": {
+      "TPMS": "1",
+      "GYRO": "0",
+      "VBATT": "1",
+      "GPS": "0"
+    }
+  },
+  "#omit-xml-declaration": "yes"
+}
